@@ -1,0 +1,12 @@
+__pycache__
+.spyproject
+covid
+covid_sample
+data
+kidneycancer
+kidneycancer_sample
+normal
+normal_sample
+test_dataset
+test.py
+testest.py
